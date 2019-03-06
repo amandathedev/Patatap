@@ -1,0 +1,15 @@
+h1 {
+	text-transform: uppercase;
+	color: white;
+}
+
+canvas {
+	width: 100%;
+	height: 100%;
+	background: black;
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+}
